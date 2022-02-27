@@ -3,11 +3,12 @@ package practice;
 
 
 public class Test {
-	public void Savings() {
-		System.out.println("savings is 4%");
-		}
-	public void deposit() {
-		System.out.println("deposit is 7%");
+	public static void pass() {
+		System.out.println("Password");
+
+	}
+	public static void main(String[] args) {
+		pass();
 	}
 	
 }
